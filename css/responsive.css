@@ -1,0 +1,51 @@
+@media (max-width:576px){
+	.abt-tab .nav-item .nav-link{
+		margin:0 0;
+	}
+	.bnr-sec{
+		text-align:center;
+	}
+	.banner h1{
+		font-size:28px;
+	}
+	.banner p{
+		font-size:18px;
+	}
+	.about-sec{
+		text-align:center;
+	}
+	.about-content{
+		margin-top:50px;
+	}
+	.list{
+		margin-top:40px;
+	}
+	.card{
+		margin-top:20px;
+	}
+	.footer-sec{
+		text-align:center;
+	}
+	
+}
+@media (max-width:768px){
+	.bnr-sec{
+		text-align:center;
+	}
+	.banner h1{
+		font-size:32px;
+	}
+	.banner p{
+		font-size:18px;
+	}
+	.about-sec{
+		text-align:center;
+	}
+	.about-content{
+		margin-top:30px;
+	}
+	.list{
+		margin-top:40px;
+	}
+	
+}
